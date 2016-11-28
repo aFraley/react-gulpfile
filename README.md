@@ -14,6 +14,7 @@ A Gulpfile for React
 
 ## To Get Started
 All you need to do to get started is clone the depository.
+
 1. `git clone https://github.com/aFraley/react-gulpfile.git`
 2. `cd react-gulpfile`
 3. `npm install`
