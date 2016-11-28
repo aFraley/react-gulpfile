@@ -18,8 +18,7 @@ All you need to do to get started is clone the depository.
 1. `git clone https://github.com/aFraley/react-gulpfile.git`
 2. `cd react-gulpfile`
 3. `npm install`
-4. `gulp`
-`gulp` will call the default function which will call the build function and
+4. `gulp` will call the default function which will call the build function and
 watch for changes to the `var paths = {}` (paths object).
 
 ## What is inside the Gulpfile.js?
